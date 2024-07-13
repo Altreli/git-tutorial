@@ -5,3 +5,4 @@
     -feature-A
         2-feature-A
         -fix-B
+        -faeture-C
