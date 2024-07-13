@@ -6,3 +6,4 @@
         2-feature-A
         -fix-B
         -faeture-C
+        -feature-D
