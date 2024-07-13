@@ -7,3 +7,7 @@
         -fix-B
         -faeture-C
         -feature-D
+        1
+        2
+        3
+        d
